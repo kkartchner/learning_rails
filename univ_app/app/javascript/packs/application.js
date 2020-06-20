@@ -5,6 +5,7 @@
 
 require("@rails/ujs").start()
 require("turbolinks").start()
+require("materialize")
 require("@rails/activestorage").start()
 require("channels")
 
